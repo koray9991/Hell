@@ -1,0 +1,4 @@
+repository "Hell@SinerjiSoftGame@cloud"
+  path "/"
+    br "/main"
+    co "/main"
